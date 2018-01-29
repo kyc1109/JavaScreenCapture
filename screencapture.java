@@ -23,7 +23,7 @@ import javax.imageio.ImageIO;
 /**
  *
  * @author user
- * Reference Java doc  
+ * Reference from Java official doc  
  */
 public class Screencapture {
 
